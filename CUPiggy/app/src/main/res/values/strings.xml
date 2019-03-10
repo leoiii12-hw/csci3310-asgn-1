@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CUPiggy</string>
+    <string name="large_text">
+        "Hello World"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="kebab">Kebab</string>
+    <string name="pizza">Pizza</string>
+    <string name="pork">Pork</string>
+    <string name="fish">Fish</string>
+</resources>
